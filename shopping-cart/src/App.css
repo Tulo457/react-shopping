@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  margin-bottom: 30px;
+}
+
+.buttons{
+  margin-bottom: 50px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card{
+  padding: 10px;
+  margin: 20px;
+}
+
+.num-input{
+  max-width: 50px;
+
+}
